@@ -1,0 +1,14 @@
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\bin\Debug\netcoreapp3.1\Uc1AddressBook.exe
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\bin\Debug\netcoreapp3.1\Uc1AddressBook.deps.json
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\bin\Debug\netcoreapp3.1\Uc1AddressBook.runtimeconfig.json
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\bin\Debug\netcoreapp3.1\Uc1AddressBook.runtimeconfig.dev.json
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\bin\Debug\netcoreapp3.1\Uc1AddressBook.dll
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\bin\Debug\netcoreapp3.1\Uc1AddressBook.pdb
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\obj\Debug\netcoreapp3.1\Uc1AddressBook.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\obj\Debug\netcoreapp3.1\Uc1AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\obj\Debug\netcoreapp3.1\Uc1AddressBook.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\obj\Debug\netcoreapp3.1\Uc1AddressBook.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\obj\Debug\netcoreapp3.1\Uc1AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\obj\Debug\netcoreapp3.1\Uc1AddressBook.dll
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\obj\Debug\netcoreapp3.1\Uc1AddressBook.pdb
+C:\Users\naruto\Desktop\BrigeLabz\Uc1AddressBook\Uc1AddressBook\obj\Debug\netcoreapp3.1\Uc1AddressBook.genruntimeconfig.cache
